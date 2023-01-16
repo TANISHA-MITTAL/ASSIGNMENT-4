@@ -12,5 +12,5 @@ def main():
         if Response == CorrectAnswer :
             print("Correct!")
         else :
-            print("Sorry, the answer is", answer, ".")
+            print("Sorry, the answer is", CorrectAnswer, ".")
 main()
